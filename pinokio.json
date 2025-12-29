@@ -1,7 +1,16 @@
 {
-  "title": "scope",
-  "description": "",
+  "title": "Daydream Scope",
+  "description": "Real-time AI video generation tool.",
   "icon": "icon.png",
-  "links": [],
+  "links": [
+    {
+      "title": "github",
+      "value": "https://github.com/daydreamlive/scope"
+    },
+    {
+      "title": "website",
+      "value": "https://daydream.live"
+    }
+  ],
   "posts": []
 }
